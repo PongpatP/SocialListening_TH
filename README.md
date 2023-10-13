@@ -57,7 +57,7 @@ GLHF :smile:
 
 &emsp;&emsp;&emsp;&emsp;  2.2 Extract Data (หาข้อมูล)  <br>
 &emsp;&emsp;&emsp;&emsp;&emsp; 2.2.1 Web scraping (Python : beautifulsoup, selenium, etc.) <br>
-&emsp;&emsp;&emsp;&emsp;&emsp; 2.2.2 API ของผู้ให้บริการ ซึ่งในโจทย์นี้คือ [Youtube DataAPI](https://developers.google.com/youtube/v3) - API มักจำกัดจำนวนการใช้งาน(token)ต่อวันนะ ดูเงื่อนไขดีๆ 
+&emsp;&emsp;&emsp;&emsp;&emsp; 2.2.2 API ของผู้ให้บริการ ซึ่งในโจทย์นี้คือ [Youtube DataAPI](https://developers.google.com/youtube/v3) - API มักจำกัดจำนวนการใช้งาน(token)ต่อวันนะ  
 
 &emsp;&emsp;&emsp;&emsp;  2.3. Data Preparation + Data Cleansing <br>
 &emsp;&emsp;&emsp;&emsp;&emsp; 2.3.1 Python library เช่น pandas, regex, os, etc. <br>
