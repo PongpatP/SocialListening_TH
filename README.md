@@ -43,7 +43,7 @@ GLHF :smile:
 &emsp;&emsp;&emsp; เช่น Wisesight, Supermetrics, Zanroo, RealSmart, Brand Watch, Sprout Social, Keyhole, Meltwater, Brand24 <br>
 &emsp;&emsp;&emsp; ป.ล. ถ้าทำกับข้อมูลภาษาไทยก็แนะนำให้ใช้เครื่องมือที่รองรับภาษาไทยด้วยนะ <br>
 
-&emsp;&emsp;&emsp;ตัวอย่างการใช้งาน Wisesight  -> [link](https://docs.google.com/spreadsheets/d/1NgOPxZ9Jed-b10pq36DfB5TH6zguxWy77KD44IS5SoY/edit?usp=sharing)
+&emsp;&emsp;&emsp;ตัวอย่างการใช้งาน Supermetrics  -> [link](https://docs.google.com/spreadsheets/d/1NgOPxZ9Jed-b10pq36DfB5TH6zguxWy77KD44IS5SoY/edit?usp=sharing)
 <br><br>
 &emsp;2. ทำด้วยตัวเอง <br>
 &emsp;&emsp;&emsp; ขึ้นชื่อว่าทำด้วยตัวเอง เราก็ต้องทำด้วยตัวเองทั้งหมดตั้งแต่ 1 - 5 โดยขอยกตัวอย่างวิธีการในแต่ละขั้นตอนตามที่ผมคิดว่าจะใช้งานดังนี้ <br>
